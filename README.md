@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MyetteSimpson
-- 👀 I’m interested in systems engineering, data science, and artificial intelligence.
+- 👀 I’m interested in cyber security, data science, and artificial intelligence.
 - 🌱 I’m currently learning basic machine learning techniques and database system design at Tufts University!
 - 💞️ I’m looking to collaborate on information systems projects that specialize in 
       system integration and intelligent feature selection.
